@@ -1,0 +1,1352 @@
+[
+  {
+    "id": "JOB001",
+    "title": "Senior Full Stack Developer",
+    "department": "Engineering",
+    "location": "Mumbai, Maharashtra",
+    "type": "Full-time",
+    "experience": "3-5 years",
+    "salary": "₹12-18 LPA",
+    "skills": ["React", "Node.js", "MongoDB", "AWS"],
+    "description": "We are looking for a Senior Full Stack Developer to join our engineering team. You will be responsible for developing and maintaining our core platform, working with modern technologies like React, Node.js, and cloud services.",
+    "requirements": [
+      "3+ years of experience in full-stack development",
+      "Proficiency in React, Node.js, and databases",
+      "Experience with cloud platforms (AWS/Azure)",
+      "Strong problem-solving skills",
+      "Experience with agile methodologies"
+    ],
+    "responsibilities": [
+      "Develop and maintain web applications",
+      "Collaborate with cross-functional teams",
+      "Write clean, maintainable code",
+      "Participate in code reviews",
+      "Optimize applications for performance"
+    ],
+    "postedDate": "2024-01-15",
+    "isRemote": false
+  },
+  {
+    "id": "JOB002",
+    "title": "Product Manager",
+    "department": "Product",
+    "location": "Bangalore, Karnataka",
+    "type": "Full-time",
+    "experience": "4-6 years",
+    "salary": "₹15-22 LPA",
+    "skills": ["Product Strategy", "Analytics", "User Research", "Agile"],
+    "description": "Join our product team to drive the strategy and development of our service marketplace platform. You'll work closely with engineering, design, and business teams to deliver exceptional user experiences.",
+    "requirements": [
+      "4+ years of product management experience",
+      "Experience with B2C marketplaces",
+      "Strong analytical and problem-solving skills",
+      "Excellent communication skills",
+      "Experience with data-driven decision making"
+    ],
+    "responsibilities": [
+      "Define product roadmap and strategy",
+      "Collaborate with engineering and design teams",
+      "Conduct user research and analysis",
+      "Monitor product metrics and KPIs",
+      "Manage product launches"
+    ],
+    "postedDate": "2024-01-10",
+    "isRemote": true
+  },
+  {
+    "id": "JOB003",
+    "title": "UX/UI Designer",
+    "department": "Design",
+    "location": "Delhi, Delhi",
+    "type": "Full-time",
+    "experience": "2-4 years",
+    "salary": "₹8-12 LPA",
+    "skills": ["Figma", "Adobe Creative Suite", "User Research", "Prototyping"],
+    "description": "We're seeking a talented UX/UI Designer to create intuitive and engaging user experiences for our service platform. You'll work on designing user flows, interfaces, and interactive prototypes.",
+    "requirements": [
+      "2+ years of UX/UI design experience",
+      "Proficiency in Figma and design tools",
+      "Strong portfolio showcasing design work",
+      "Understanding of user-centered design principles",
+      "Experience with responsive design"
+    ],
+    "responsibilities": [
+      "Create user interface designs and prototypes",
+      "Conduct user research and usability testing",
+      "Collaborate with product and engineering teams",
+      "Maintain design systems and guidelines",
+      "Present design concepts to stakeholders"
+    ],
+    "postedDate": "2024-01-08",
+    "isRemote": false
+  },
+  {
+    "id": "JOB004",
+    "title": "Data Scientist",
+    "department": "Data & Analytics",
+    "location": "Hyderabad, Telangana",
+    "type": "Full-time",
+    "experience": "3-5 years",
+    "salary": "₹14-20 LPA",
+    "skills": ["Python", "Machine Learning", "SQL", "Statistics"],
+    "description": "Join our data team to build machine learning models and analytics solutions that power our recommendation systems and business intelligence.",
+    "requirements": [
+      "3+ years of data science experience",
+      "Strong programming skills in Python/R",
+      "Experience with ML frameworks (TensorFlow, PyTorch)",
+      "Knowledge of statistical analysis",
+      "Experience with big data technologies"
+    ],
+    "responsibilities": [
+      "Develop machine learning models",
+      "Analyze large datasets for insights",
+      "Build recommendation systems",
+      "Create data visualizations and reports",
+      "Collaborate with engineering teams"
+    ],
+    "postedDate": "2024-01-12",
+    "isRemote": true
+  },
+  {
+    "id": "JOB005",
+    "title": "DevOps Engineer",
+    "department": "Engineering",
+    "location": "Pune, Maharashtra",
+    "type": "Full-time",
+    "experience": "3-6 years",
+    "salary": "₹12-18 LPA",
+    "skills": ["AWS", "Docker", "Kubernetes", "CI/CD"],
+    "description": "We're looking for a DevOps Engineer to manage our cloud infrastructure and deployment pipelines. You'll work on scaling our platform and ensuring high availability.",
+    "requirements": [
+      "3+ years of DevOps experience",
+      "Expertise in cloud platforms (AWS/Azure)",
+      "Experience with containerization (Docker, Kubernetes)",
+      "Knowledge of CI/CD pipelines",
+      "Scripting skills (Bash, Python)"
+    ],
+    "responsibilities": [
+      "Manage cloud infrastructure",
+      "Set up and maintain CI/CD pipelines",
+      "Monitor system performance and reliability",
+      "Implement security best practices",
+      "Automate deployment processes"
+    ],
+    "postedDate": "2024-01-14",
+    "isRemote": false
+  },
+  {
+    "id": "JOB006",
+    "title": "Digital Marketing Manager",
+    "department": "Marketing",
+    "location": "Mumbai, Maharashtra",
+    "type": "Full-time",
+    "experience": "4-7 years",
+    "salary": "₹10-15 LPA",
+    "skills": ["Digital Marketing", "SEO", "SEM", "Analytics"],
+    "description": "Lead our digital marketing efforts to drive user acquisition and brand awareness. You'll manage campaigns across multiple channels and optimize for growth.",
+    "requirements": [
+      "4+ years of digital marketing experience",
+      "Experience with Google Ads and Facebook Ads",
+      "Strong analytical skills",
+      "Knowledge of SEO and content marketing",
+      "Experience with marketing automation tools"
+    ],
+    "responsibilities": [
+      "Develop and execute digital marketing strategies",
+      "Manage paid advertising campaigns",
+      "Optimize website for search engines",
+      "Analyze campaign performance and ROI",
+      "Collaborate with content and design teams"
+    ],
+    "postedDate": "2024-01-09",
+    "isRemote": true
+  },
+  {
+    "id": "JOB007",
+    "title": "Customer Success Manager",
+    "department": "Customer Success",
+    "location": "Bangalore, Karnataka",
+    "type": "Full-time",
+    "experience": "2-4 years",
+    "salary": "₹6-10 LPA",
+    "skills": ["Customer Success", "Communication", "CRM", "Analytics"],
+    "description": "Help our customers achieve success with our platform. You'll work directly with service providers and customers to ensure satisfaction and drive retention.",
+    "requirements": [
+      "2+ years in customer success or account management",
+      "Excellent communication and interpersonal skills",
+      "Experience with CRM systems",
+      "Problem-solving mindset",
+      "Understanding of SaaS metrics"
+    ],
+    "responsibilities": [
+      "Manage customer relationships and onboarding",
+      "Analyze customer health and usage metrics",
+      "Develop customer success strategies",
+      "Handle escalations and resolve issues",
+      "Drive product adoption and expansion"
+    ],
+    "postedDate": "2024-01-11",
+    "isRemote": false
+  },
+  {
+    "id": "JOB008",
+    "title": "Mobile App Developer (React Native)",
+    "department": "Engineering",
+    "location": "Chennai, Tamil Nadu",
+    "type": "Full-time",
+    "experience": "2-5 years",
+    "salary": "₹8-14 LPA",
+    "skills": ["React Native", "JavaScript", "iOS", "Android"],
+    "description": "Join our mobile team to build and enhance our React Native applications for iOS and Android platforms.",
+    "requirements": [
+      "2+ years of React Native development",
+      "Experience with mobile app deployment",
+      "Knowledge of native mobile development",
+      "Understanding of mobile UX principles",
+      "Experience with app store optimization"
+    ],
+    "responsibilities": [
+      "Develop mobile applications using React Native",
+      "Optimize app performance and user experience",
+      "Collaborate with design and backend teams",
+      "Handle app store submissions and updates",
+      "Debug and resolve mobile-specific issues"
+    ],
+    "postedDate": "2024-01-13",
+    "isRemote": true
+  },
+  {
+    "id": "JOB009",
+    "title": "Business Analyst",
+    "department": "Strategy",
+    "location": "Gurgaon, Haryana",
+    "type": "Full-time",
+    "experience": "3-5 years",
+    "salary": "₹9-13 LPA",
+    "skills": ["Business Analysis", "SQL", "Excel", "Tableau"],
+    "description": "Analyze business processes and market trends to drive strategic decisions. You'll work with various teams to identify opportunities and improvements.",
+    "requirements": [
+      "3+ years of business analysis experience",
+      "Strong analytical and quantitative skills",
+      "Proficiency in SQL and Excel",
+      "Experience with data visualization tools",
+      "Excellent presentation skills"
+    ],
+    "responsibilities": [
+      "Conduct market research and competitive analysis",
+      "Analyze business metrics and KPIs",
+      "Create reports and presentations for leadership",
+      "Identify process improvement opportunities",
+      "Support strategic planning initiatives"
+    ],
+    "postedDate": "2024-01-07",
+    "isRemote": false
+  },
+  {
+    "id": "JOB010",
+    "title": "Quality Assurance Engineer",
+    "department": "Engineering",
+    "location": "Noida, Uttar Pradesh",
+    "type": "Full-time",
+    "experience": "2-4 years",
+    "salary": "₹6-10 LPA",
+    "skills": ["Testing", "Automation", "Selenium", "API Testing"],
+    "description": "Ensure the quality of our software products through comprehensive testing strategies. You'll work on both manual and automated testing.",
+    "requirements": [
+      "2+ years of QA testing experience",
+      "Experience with test automation tools",
+      "Knowledge of API testing",
+      "Understanding of agile testing methodologies",
+      "Attention to detail and analytical thinking"
+    ],
+    "responsibilities": [
+      "Design and execute test plans and cases",
+      "Develop automated test scripts",
+      "Perform API and integration testing",
+      "Track and report bugs and issues",
+      "Collaborate with development teams"
+    ],
+    "postedDate": "2024-01-06",
+    "isRemote": false
+  },
+  {
+    "id": "JOB011",
+    "title": "HR Business Partner",
+    "department": "Human Resources",
+    "location": "Mumbai, Maharashtra",
+    "type": "Full-time",
+    "experience": "5-8 years",
+    "salary": "₹12-18 LPA",
+    "skills": ["HR Strategy", "Employee Relations", "Recruitment", "Performance Management"],
+    "description": "Partner with business leaders to drive HR strategies and initiatives. You'll focus on talent management, employee engagement, and organizational development.",
+    "requirements": [
+      "5+ years of HR experience",
+      "Experience as an HR Business Partner",
+      "Strong understanding of employment law",
+      "Excellent communication and consulting skills",
+      "Experience with HRIS systems"
+    ],
+    "responsibilities": [
+      "Partner with business leaders on HR strategy",
+      "Manage employee relations and performance issues",
+      "Drive talent acquisition and retention strategies",
+      "Develop and implement HR policies",
+      "Support organizational change initiatives"
+    ],
+    "postedDate": "2024-01-05",
+    "isRemote": true
+  },
+  {
+    "id": "JOB012",
+    "title": "Content Marketing Specialist",
+    "department": "Marketing",
+    "location": "Delhi, Delhi",
+    "type": "Full-time",
+    "experience": "2-4 years",
+    "salary": "₹5-8 LPA",
+    "skills": ["Content Writing", "SEO", "Social Media", "Analytics"],
+    "description": "Create compelling content that drives engagement and supports our marketing goals. You'll work on blog posts, social media, and marketing materials.",
+    "requirements": [
+      "2+ years of content marketing experience",
+      "Excellent writing and editing skills",
+      "Knowledge of SEO best practices",
+      "Experience with content management systems",
+      "Understanding of social media platforms"
+    ],
+    "responsibilities": [
+      "Create and edit marketing content",
+      "Develop content strategies and calendars",
+      "Optimize content for search engines",
+      "Manage social media content",
+      "Analyze content performance metrics"
+    ],
+    "postedDate": "2024-01-04",
+    "isRemote": true
+  },
+  {
+    "id": "JOB013",
+    "title": "Financial Analyst",
+    "department": "Finance",
+    "location": "Bangalore, Karnataka",
+    "type": "Full-time",
+    "experience": "3-5 years",
+    "salary": "₹8-12 LPA",
+    "skills": ["Financial Analysis", "Excel", "Financial Modeling", "SQL"],
+    "description": "Support financial planning and analysis for the company. You'll work on budgeting, forecasting, and financial reporting.",
+    "requirements": [
+      "3+ years of financial analysis experience",
+      "Strong skills in Excel and financial modeling",
+      "Knowledge of accounting principles",
+      "Experience with financial reporting",
+      "Analytical and detail-oriented mindset"
+    ],
+    "responsibilities": [
+      "Prepare financial reports and analysis",
+      "Support budgeting and forecasting processes",
+      "Analyze business performance and metrics",
+      "Create financial models and projections",
+      "Assist with investor relations activities"
+    ],
+    "postedDate": "2024-01-03",
+    "isRemote": false
+  },
+  {
+    "id": "JOB014",
+    "title": "Sales Development Representative",
+    "department": "Sales",
+    "location": "Mumbai, Maharashtra",
+    "type": "Full-time",
+    "experience": "1-3 years",
+    "salary": "₹4-7 LPA",
+    "skills": ["Sales", "Lead Generation", "CRM", "Communication"],
+    "description": "Generate qualified leads and support our sales team. You'll be responsible for prospecting, qualifying leads, and setting appointments.",
+    "requirements": [
+      "1+ years of sales or lead generation experience",
+      "Excellent communication and interpersonal skills",
+      "Experience with CRM systems",
+      "Goal-oriented and self-motivated",
+      "Understanding of B2B sales processes"
+    ],
+    "responsibilities": [
+      "Generate and qualify sales leads",
+      "Conduct outbound prospecting activities",
+      "Set appointments for account executives",
+      "Maintain accurate records in CRM",
+      "Collaborate with marketing team on campaigns"
+    ],
+    "postedDate": "2024-01-02",
+    "isRemote": false
+  },
+  {
+    "id": "JOB015",
+    "title": "Backend Developer (Python)",
+    "department": "Engineering",
+    "location": "Hyderabad, Telangana",
+    "type": "Full-time",
+    "experience": "2-4 years",
+    "salary": "₹8-12 LPA",
+    "skills": ["Python", "Django", "PostgreSQL", "API Development"],
+    "description": "Develop and maintain our backend services and APIs. You'll work with Python, Django, and various databases to build scalable solutions.",
+    "requirements": [
+      "2+ years of Python development experience",
+      "Experience with Django or Flask frameworks",
+      "Knowledge of database design and optimization",
+      "Understanding of API design principles",
+      "Experience with version control (Git)"
+    ],
+    "responsibilities": [
+      "Develop backend services and APIs",
+      "Optimize database queries and performance",
+      "Write unit tests and documentation",
+      "Collaborate with frontend developers",
+      "Participate in code reviews and architecture discussions"
+    ],
+    "postedDate": "2024-01-01",
+    "isRemote": true
+  },
+  {
+    "id": "JOB016",
+    "title": "Cybersecurity Analyst",
+    "department": "Security",
+    "location": "Pune, Maharashtra",
+    "type": "Full-time",
+    "experience": "3-6 years",
+    "salary": "₹10-15 LPA",
+    "skills": ["Cybersecurity", "Network Security", "SIEM", "Incident Response"],
+    "description": "Protect our systems and data from security threats. You'll monitor security events, investigate incidents, and implement security measures.",
+    "requirements": [
+      "3+ years of cybersecurity experience",
+      "Knowledge of security frameworks and standards",
+      "Experience with SIEM tools",
+      "Understanding of network security principles",
+      "Relevant security certifications preferred"
+    ],
+    "responsibilities": [
+      "Monitor security events and alerts",
+      "Investigate and respond to security incidents",
+      "Implement security policies and procedures",
+      "Conduct security assessments and audits",
+      "Provide security awareness training"
+    ],
+    "postedDate": "2023-12-30",
+    "isRemote": false
+  },
+  {
+    "id": "JOB017",
+    "title": "Operations Manager",
+    "department": "Operations",
+    "location": "Chennai, Tamil Nadu",
+    "type": "Full-time",
+    "experience": "4-7 years",
+    "salary": "₹12-18 LPA",
+    "skills": ["Operations Management", "Process Improvement", "Leadership", "Analytics"],
+    "description": "Lead our operations team to ensure efficient service delivery. You'll focus on process optimization, team management, and operational excellence.",
+    "requirements": [
+      "4+ years of operations management experience",
+      "Strong leadership and team management skills",
+      "Experience with process improvement methodologies",
+      "Analytical and problem-solving abilities",
+      "Knowledge of service industry operations"
+    ],
+    "responsibilities": [
+      "Manage day-to-day operations",
+      "Lead and develop operations team",
+      "Optimize processes and workflows",
+      "Monitor operational metrics and KPIs",
+      "Implement quality assurance programs"
+    ],
+    "postedDate": "2023-12-29",
+    "isRemote": false
+  },
+  {
+    "id": "JOB018",
+    "title": "Frontend Developer (Vue.js)",
+    "department": "Engineering",
+    "location": "Bangalore, Karnataka",
+    "type": "Full-time",
+    "experience": "2-4 years",
+    "salary": "₹7-11 LPA",
+    "skills": ["Vue.js", "JavaScript", "CSS", "Frontend Development"],
+    "description": "Build responsive and interactive user interfaces using Vue.js. You'll work closely with our design team to implement modern web applications.",
+    "requirements": [
+      "2+ years of frontend development experience",
+      "Proficiency in Vue.js and JavaScript",
+      "Experience with CSS frameworks",
+      "Understanding of responsive design principles",
+      "Knowledge of frontend build tools"
+    ],
+    "responsibilities": [
+      "Develop user interfaces using Vue.js",
+      "Implement responsive designs",
+      "Optimize frontend performance",
+      "Collaborate with backend developers on API integration",
+      "Participate in design reviews and technical discussions"
+    ],
+    "postedDate": "2023-12-28",
+    "isRemote": true
+  },
+  {
+    "id": "JOB019",
+    "title": "Legal Counsel",
+    "department": "Legal",
+    "location": "Delhi, Delhi",
+    "type": "Full-time",
+    "experience": "5-8 years",
+    "salary": "₹15-22 LPA",
+    "skills": ["Corporate Law", "Contract Law", "Compliance", "Risk Management"],
+    "description": "Provide legal support and guidance for business operations. You'll handle contracts, compliance, and regulatory matters.",
+    "requirements": [
+      "5+ years of legal experience",
+      "Law degree from recognized institution",
+      "Experience in corporate and contract law",
+      "Knowledge of technology and startup legal issues",
+      "Strong negotiation and drafting skills"
+    ],
+    "responsibilities": [
+      "Draft and review legal documents and contracts",
+      "Provide legal advice on business matters",
+      "Ensure regulatory compliance",
+      "Manage legal risks and disputes",
+      "Support corporate governance activities"
+    ],
+    "postedDate": "2023-12-27",
+    "isRemote": false
+  },
+  {
+    "id": "JOB020",
+    "title": "Business Development Executive",
+    "department": "Business Development",
+    "location": "Mumbai, Maharashtra",
+    "type": "Full-time",
+    "experience": "2-5 years",
+    "salary": "₹6-10 LPA",
+    "skills": ["Business Development", "Sales", "Relationship Management", "Negotiation"],
+    "description": "Drive business growth through strategic partnerships and new business opportunities. You'll identify and develop key relationships.",
+    "requirements": [
+      "2+ years of business development experience",
+      "Strong sales and negotiation skills",
+      "Experience in B2B relationship management",
+      "Excellent communication and presentation skills",
+      "Understanding of marketplace business models"
+    ],
+    "responsibilities": [
+      "Identify new business opportunities",
+      "Develop strategic partnerships",
+      "Negotiate contracts and agreements",
+      "Manage key account relationships",
+      "Support market expansion initiatives"
+    ],
+    "postedDate": "2023-12-26",
+    "isRemote": false
+  },
+  {
+    "id": "JOB021",
+    "title": "Machine Learning Engineer",
+    "department": "Data & Analytics",
+    "location": "Bangalore, Karnataka",
+    "type": "Full-time",
+    "experience": "3-6 years",
+    "salary": "₹15-25 LPA",
+    "skills": ["Machine Learning", "Python", "TensorFlow", "MLOps"],
+    "description": "Build and deploy machine learning models to improve our platform's intelligence. You'll work on recommendation systems, demand forecasting, and optimization algorithms.",
+    "requirements": [
+      "3+ years of ML engineering experience",
+      "Strong programming skills in Python",
+      "Experience with ML frameworks and libraries",
+      "Knowledge of MLOps and model deployment",
+      "Understanding of distributed computing"
+    ],
+    "responsibilities": [
+      "Design and implement ML models",
+      "Deploy models to production systems",
+      "Monitor model performance and accuracy",
+      "Collaborate with data science team",
+      "Optimize algorithms for scale and performance"
+    ],
+    "postedDate": "2023-12-25",
+    "isRemote": true
+  },
+  {
+    "id": "JOB022",
+    "title": "Graphic Designer",
+    "department": "Design",
+    "location": "Mumbai, Maharashtra",
+    "type": "Full-time",
+    "experience": "2-4 years",
+    "salary": "₹4-7 LPA",
+    "skills": ["Graphic Design", "Adobe Creative Suite", "Branding", "Typography"],
+    "description": "Create visual content for marketing campaigns, social media, and brand materials. You'll work on both digital and print designs.",
+    "requirements": [
+      "2+ years of graphic design experience",
+      "Proficiency in Adobe Creative Suite",
+      "Strong portfolio showcasing design work",
+      "Understanding of branding and typography",
+      "Experience with both digital and print media"
+    ],
+    "responsibilities": [
+      "Create marketing materials and advertisements",
+      "Design social media graphics and campaigns",
+      "Develop brand guidelines and visual identity",
+      "Collaborate with marketing and content teams",
+      "Maintain consistent brand representation"
+    ],
+    "postedDate": "2023-12-24",
+    "isRemote": false
+  },
+  {
+    "id": "JOB023",
+    "title": "Cloud Solutions Architect",
+    "department": "Engineering",
+    "location": "Hyderabad, Telangana",
+    "type": "Full-time",
+    "experience": "5-8 years",
+    "salary": "₹18-28 LPA",
+    "skills": ["Cloud Architecture", "AWS", "Azure", "System Design"],
+    "description": "Design and implement scalable cloud infrastructure solutions. You'll lead architecture decisions and optimize our cloud platform for performance and cost.",
+    "requirements": [
+      "5+ years of cloud architecture experience",
+      "Expert knowledge of AWS/Azure platforms",
+      "Experience with microservices architecture",
+      "Strong understanding of system design principles",
+      "Relevant cloud certifications preferred"
+    ],
+    "responsibilities": [
+      "Design cloud infrastructure architecture",
+      "Optimize cloud costs and performance",
+      "Lead technical architecture decisions",
+      "Mentor junior engineers and developers",
+      "Evaluate and recommend new technologies"
+    ],
+    "postedDate": "2023-12-23",
+    "isRemote": true
+  },
+  {
+    "id": "JOB024",
+    "title": "SEO Specialist",
+    "department": "Marketing",
+    "location": "Pune, Maharashtra",
+    "type": "Full-time",
+    "experience": "2-5 years",
+    "salary": "₹5-9 LPA",
+    "skills": ["SEO", "Google Analytics", "Keyword Research", "Content Optimization"],
+    "description": "Improve our website's search engine visibility and drive organic traffic. You'll work on technical SEO, content optimization, and link building strategies.",
+    "requirements": [
+      "2+ years of SEO experience",
+      "Knowledge of Google Analytics and Search Console",
+      "Experience with SEO tools (SEMrush, Ahrefs, etc.)",
+      "Understanding of technical SEO principles",
+      "Experience with content management systems"
+    ],
+    "responsibilities": [
+      "Conduct keyword research and analysis",
+      "Optimize website content for search engines",
+      "Implement technical SEO improvements",
+      "Monitor and report on SEO performance",
+      "Develop and execute link building strategies"
+    ],
+    "postedDate": "2023-12-22",
+    "isRemote": false
+  },
+  {
+    "id": "JOB025",
+    "title": "Database Administrator",
+    "department": "Engineering",
+    "location": "Chennai, Tamil Nadu",
+    "type": "Full-time",
+    "experience": "4-7 years",
+    "salary": "₹10-16 LPA",
+    "skills": ["Database Administration", "PostgreSQL", "MySQL", "MongoDB"],
+    "description": "Manage and optimize our database systems for performance, security, and reliability. You'll handle backup strategies, performance tuning, and database maintenance.",
+    "requirements": [
+      "4+ years of database administration experience",
+      "Expertise in PostgreSQL, MySQL, or MongoDB",
+      "Knowledge of database performance optimization",
+      "Experience with backup and recovery procedures",
+      "Understanding of database security best practices"
+    ],
+    "responsibilities": [
+      "Monitor database performance and optimization",
+      "Implement backup and recovery strategies",
+      "Ensure database security and compliance",
+      "Troubleshoot database issues",
+      "Support application development teams"
+    ],
+    "postedDate": "2023-12-21",
+    "isRemote": false
+  },
+  {
+    "id": "JOB026",
+    "title": "Technical Writer",
+    "department": "Documentation",
+    "location": "Bangalore, Karnataka",
+    "type": "Full-time",
+    "experience": "2-4 years",
+    "salary": "₹6-10 LPA",
+    "skills": ["Technical Writing", "Documentation", "API Documentation", "Content Strategy"],
+    "description": "Create clear and comprehensive technical documentation for our products and services. You'll work with engineering teams to document APIs, user guides, and internal processes.",
+    "requirements": [
+      "2+ years of technical writing experience",
+      "Experience with API documentation",
+      "Proficiency in documentation tools (Confluence, GitBook, etc.)",
+      "Understanding of software development processes",
+      "Excellent written communication skills"
+    ],
+    "responsibilities": [
+      "Create and maintain technical documentation",
+      "Document APIs and developer resources",
+      "Collaborate with engineering and product teams",
+      "Improve documentation processes and standards",
+      "Review and edit technical content"
+    ],
+    "postedDate": "2023-12-20",
+    "isRemote": true
+  },
+  {
+    "id": "JOB027",
+    "title": "Social Media Manager",
+    "department": "Marketing",
+    "location": "Delhi, Delhi",
+    "type": "Full-time",
+    "experience": "3-5 years",
+    "salary": "₹6-10 LPA",
+    "skills": ["Social Media Marketing", "Content Creation", "Community Management", "Analytics"],
+    "description": "Manage our social media presence across multiple platforms. You'll create engaging content, build community, and drive brand awareness through social channels.",
+    "requirements": [
+      "3+ years of social media marketing experience",
+      "Experience with major social media platforms",
+      "Strong content creation and copywriting skills",
+      "Knowledge of social media analytics tools",
+      "Understanding of community management best practices"
+    ],
+    "responsibilities": [
+      "Develop social media strategies and campaigns",
+      "Create and curate engaging content",
+      "Manage community interactions and engagement",
+      "Analyze social media performance metrics",
+      "Collaborate with marketing and design teams"
+    ],
+    "postedDate": "2023-12-19",
+    "isRemote": false
+  },
+  {
+    "id": "JOB028",
+    "title": "Network Engineer",
+    "department": "IT",
+    "location": "Mumbai, Maharashtra",
+    "type": "Full-time",
+    "experience": "3-6 years",
+    "salary": "₹8-14 LPA",
+    "skills": ["Network Administration", "Cisco", "Routing", "Switching"],
+    "description": "Design, implement, and maintain our network infrastructure. You'll ensure network security, performance, and reliability across all our locations.",
+    "requirements": [
+      "3+ years of network engineering experience",
+      "Cisco certifications (CCNA/CCNP preferred)",
+      "Knowledge of routing and switching protocols",
+      "Experience with network security principles",
+      "Understanding of network monitoring tools"
+    ],
+    "responsibilities": [
+      "Design and implement network solutions",
+      "Monitor network performance and security",
+      "Troubleshoot network connectivity issues",
+      "Maintain network documentation and procedures",
+      "Support network infrastructure upgrades"
+    ],
+    "postedDate": "2023-12-18",
+    "isRemote": false
+  },
+  {
+    "id": "JOB029",
+    "title": "Project Manager",
+    "department": "Project Management",
+    "location": "Gurgaon, Haryana",
+    "type": "Full-time",
+    "experience": "4-7 years",
+    "salary": "₹12-18 LPA",
+    "skills": ["Project Management", "Agile", "Scrum", "Risk Management"],
+    "description": "Lead cross-functional teams to deliver projects on time and within budget. You'll manage project lifecycle, coordinate stakeholders, and ensure successful project outcomes.",
+    "requirements": [
+      "4+ years of project management experience",
+      "PMP or Agile certifications preferred",
+      "Experience with project management tools",
+      "Strong leadership and communication skills",
+      "Understanding of software development lifecycle"
+    ],
+    "responsibilities": [
+      "Plan and execute project deliverables",
+      "Coordinate cross-functional teams and stakeholders",
+      "Manage project timelines, budgets, and resources",
+      "Identify and mitigate project risks",
+      "Report on project status and metrics"
+    ],
+    "postedDate": "2023-12-17",
+    "isRemote": true
+  },
+  {
+    "id": "JOB030",
+    "title": "UX Researcher",
+    "department": "Design",
+    "location": "Bangalore, Karnataka",
+    "type": "Full-time",
+    "experience": "3-5 years",
+    "salary": "₹8-13 LPA",
+    "skills": ["UX Research", "User Testing", "Research Methods", "Analytics"],
+    "description": "Conduct user research to inform product decisions and improve user experiences. You'll design studies, analyze user behavior, and present insights to product teams.",
+    "requirements": [
+      "3+ years of UX research experience",
+      "Experience with qualitative and quantitative research methods",
+      "Knowledge of user testing and analytics tools",
+      "Strong analytical and presentation skills",
+      "Understanding of design thinking processes"
+    ],
+    "responsibilities": [
+      "Design and conduct user research studies",
+      "Analyze user behavior and feedback data",
+      "Present research findings and recommendations",
+      "Collaborate with design and product teams",
+      "Maintain user research repository and insights"
+    ],
+    "postedDate": "2023-12-16",
+    "isRemote": false
+  },
+  {
+    "id": "JOB031",
+    "title": "Supply Chain Analyst",
+    "department": "Operations",
+    "location": "Chennai, Tamil Nadu",
+    "type": "Full-time",
+    "experience": "2-4 years",
+    "salary": "₹6-10 LPA",
+    "skills": ["Supply Chain Management", "Data Analysis", "Excel", "ERP Systems"],
+    "description": "Optimize our supply chain operations and logistics. You'll analyze supply chain data, identify improvement opportunities, and support operational efficiency initiatives.",
+    "requirements": [
+      "2+ years of supply chain or operations experience",
+      "Strong analytical and data analysis skills",
+      "Proficiency in Excel and data visualization tools",
+      "Knowledge of supply chain management principles",
+      "Experience with ERP systems preferred"
+    ],
+    "responsibilities": [
+      "Analyze supply chain performance and metrics",
+      "Identify process improvement opportunities",
+      "Support vendor management and procurement",
+      "Create reports and dashboards for operations team",
+      "Collaborate with logistics and operations teams"
+    ],
+    "postedDate": "2023-12-15",
+    "isRemote": false
+  },
+  {
+    "id": "JOB032",
+    "title": "Email Marketing Specialist",
+    "department": "Marketing",
+    "location": "Pune, Maharashtra",
+    "type": "Full-time",
+    "experience": "2-4 years",
+    "salary": "₹4-7 LPA",
+    "skills": ["Email Marketing", "Marketing Automation", "Segmentation", "A/B Testing"],
+    "description": "Develop and execute email marketing campaigns to drive customer engagement and retention. You'll manage email automation, segmentation, and performance optimization.",
+    "requirements": [
+      "2+ years of email marketing experience",
+      "Experience with email marketing platforms (Mailchimp, HubSpot, etc.)",
+      "Knowledge of email automation and segmentation",
+      "Understanding of email deliverability best practices",
+      "Experience with A/B testing and optimization"
+    ],
+    "responsibilities": [
+      "Design and execute email marketing campaigns",
+      "Implement email automation workflows",
+      "Segment email lists for targeted campaigns",
+      "Monitor email performance and deliverability",
+      "Optimize campaigns through A/B testing"
+    ],
+    "postedDate": "2023-12-14",
+    "isRemote": true
+  },
+  {
+    "id": "JOB033",
+    "title": "Compliance Officer",
+    "department": "Legal",
+    "location": "Mumbai, Maharashtra",
+    "type": "Full-time",
+    "experience": "4-6 years",
+    "salary": "₹10-15 LPA",
+    "skills": ["Compliance", "Risk Management", "Regulatory Affairs", "Audit"],
+    "description": "Ensure our business operations comply with applicable laws and regulations. You'll develop compliance programs, conduct risk assessments, and manage regulatory relationships.",
+    "requirements": [
+      "4+ years of compliance or regulatory experience",
+      "Knowledge of relevant industry regulations",
+      "Experience with compliance program development",
+      "Strong understanding of risk management principles",
+      "Excellent communication and analytical skills"
+    ],
+    "responsibilities": [
+      "Develop and implement compliance programs",
+      "Conduct compliance risk assessments",
+      "Monitor regulatory changes and updates",
+      "Manage relationships with regulatory bodies",
+      "Provide compliance training and guidance"
+    ],
+    "postedDate": "2023-12-13",
+    "isRemote": false
+  },
+  {
+    "id": "JOB034",
+    "title": "Mobile QA Engineer",
+    "department": "Engineering",
+    "location": "Hyderabad, Telangana",
+    "type": "Full-time",
+    "experience": "3-5 years",
+    "salary": "₹7-12 LPA",
+    "skills": ["Mobile Testing", "iOS", "Android", "Automation Testing"],
+    "description": "Ensure the quality of our mobile applications through comprehensive testing on iOS and Android platforms. You'll develop test strategies and automation frameworks.",
+    "requirements": [
+      "3+ years of mobile testing experience",
+      "Experience with iOS and Android testing",
+      "Knowledge of mobile automation tools (Appium, XCTest, Espresso)",
+      "Understanding of mobile app development lifecycle",
+      "Experience with performance and security testing"
+    ],
+    "responsibilities": [
+      "Design and execute mobile testing strategies",
+      "Develop automated test suites for mobile apps",
+      "Perform functional and performance testing",
+      "Collaborate with mobile development teams",
+      "Ensure app store compliance and quality standards"
+    ],
+    "postedDate": "2023-12-12",
+    "isRemote": true
+  },
+  {
+    "id": "JOB035",
+    "title": "Partnerships Manager",
+    "department": "Business Development",
+    "location": "Delhi, Delhi",
+    "type": "Full-time",
+    "experience": "4-6 years",
+    "salary": "₹12-18 LPA",
+    "skills": ["Partnership Development", "Strategic Alliances", "Negotiation", "Relationship Management"],
+    "description": "Build strategic partnerships to expand our market reach and drive business growth. You'll identify, negotiate, and manage key partnership relationships.",
+    "requirements": [
+      "4+ years of partnership or business development experience",
+      "Strong negotiation and relationship management skills",
+      "Experience with strategic alliance development",
+      "Understanding of marketplace and platform business models",
+      "Excellent communication and presentation skills"
+    ],
+    "responsibilities": [
+      "Identify and evaluate potential partnership opportunities",
+      "Negotiate partnership agreements and terms",
+      "Manage ongoing partner relationships",
+      "Develop partnership strategies and initiatives",
+      "Monitor partnership performance and ROI"
+    ],
+    "postedDate": "2023-12-11",
+    "isRemote": false
+  },
+  {
+    "id": "JOB036",
+    "title": "Information Security Analyst",
+    "department": "Security",
+    "location": "Bangalore, Karnataka",
+    "type": "Full-time",
+    "experience": "3-5 years",
+    "salary": "₹9-14 LPA",
+    "skills": ["Information Security", "Vulnerability Assessment", "Security Auditing", "CISSP"],
+    "description": "Protect our information assets and ensure security compliance. You'll conduct security assessments, implement security controls, and respond to security incidents.",
+    "requirements": [
+      "3+ years of information security experience",
+      "Knowledge of security frameworks (ISO 27001, NIST)",
+      "Experience with vulnerability assessment tools",
+      "Understanding of security compliance requirements",
+      "Relevant security certifications preferred (CISSP, CISA)"
+    ],
+    "responsibilities": [
+      "Conduct security risk assessments",
+      "Implement security policies and controls",
+      "Monitor security compliance and audits",
+      "Investigate security incidents and breaches",
+      "Provide security awareness training"
+    ],
+    "postedDate": "2023-12-10",
+    "isRemote": false
+  },
+  {
+    "id": "JOB037",
+    "title": "Training and Development Specialist",
+    "department": "Human Resources",
+    "location": "Chennai, Tamil Nadu",
+    "type": "Full-time",
+    "experience": "3-5 years",
+    "salary": "₹7-11 LPA",
+    "skills": ["Training Development", "Learning Design", "Employee Development", "LMS"],
+    "description": "Design and deliver training programs to enhance employee skills and performance. You'll develop learning strategies, create training content, and measure training effectiveness.",
+    "requirements": [
+      "3+ years of training and development experience",
+      "Experience with learning design and instructional design",
+      "Knowledge of learning management systems (LMS)",
+      "Strong presentation and facilitation skills",
+      "Understanding of adult learning principles"
+    ],
+    "responsibilities": [
+      "Design and develop training programs",
+      "Deliver training sessions and workshops",
+      "Manage learning management system",
+      "Assess training needs and effectiveness",
+      "Support employee development initiatives"
+    ],
+    "postedDate": "2023-12-09",
+    "isRemote": true
+  },
+  {
+    "id": "JOB038",
+    "title": "E-commerce Manager",
+    "department": "Operations",
+    "location": "Mumbai, Maharashtra",
+    "type": "Full-time",
+    "experience": "4-6 years",
+    "salary": "₹10-16 LPA",
+    "skills": ["E-commerce", "Digital Marketing", "Marketplace Management", "Analytics"],
+    "description": "Manage our e-commerce operations and marketplace presence. You'll optimize product listings, manage inventory, and drive online sales growth.",
+    "requirements": [
+      "4+ years of e-commerce management experience",
+      "Experience with marketplace platforms (Amazon, Flipkart, etc.)",
+      "Knowledge of e-commerce analytics and optimization",
+      "Understanding of digital marketing and SEO",
+      "Experience with inventory and supply chain management"
+    ],
+    "responsibilities": [
+      "Manage e-commerce platform operations",
+      "Optimize product listings and catalog",
+      "Monitor inventory levels and supply chain",
+      "Analyze sales performance and trends",
+      "Develop e-commerce growth strategies"
+    ],
+    "postedDate": "2023-12-08",
+    "isRemote": false
+  },
+  {
+    "id": "JOB039",
+    "title": "Video Content Creator",
+    "department": "Marketing",
+    "location": "Pune, Maharashtra",
+    "type": "Full-time",
+    "experience": "2-4 years",
+    "salary": "₹5-8 LPA",
+    "skills": ["Video Production", "Video Editing", "Storytelling", "Creative Direction"],
+    "description": "Create engaging video content for marketing campaigns and social media. You'll handle video production from concept to final delivery.",
+    "requirements": [
+      "2+ years of video production experience",
+      "Proficiency in video editing software (Adobe Premiere, Final Cut Pro)",
+      "Strong storytelling and creative skills",
+      "Experience with camera operation and lighting",
+      "Understanding of social media video formats"
+    ],
+    "responsibilities": [
+      "Develop video content concepts and scripts",
+      "Shoot and edit marketing videos",
+      "Collaborate with marketing and design teams",
+      "Optimize videos for different platforms",
+      "Manage video production equipment and resources"
+    ],
+    "postedDate": "2023-12-07",
+    "isRemote": false
+  },
+  {
+    "id": "JOB040",
+    "title": "Customer Support Team Lead",
+    "department": "Customer Success",
+    "location": "Gurgaon, Haryana",
+    "type": "Full-time",
+    "experience": "4-6 years",
+    "salary": "₹8-12 LPA",
+    "skills": ["Team Leadership", "Customer Support", "Process Improvement", "Training"],
+    "description": "Lead our customer support team to deliver exceptional customer experiences. You'll manage team performance, develop processes, and drive customer satisfaction.",
+    "requirements": [
+      "4+ years of customer support experience",
+      "2+ years of team leadership experience",
+      "Experience with customer support tools and CRM systems",
+      "Strong problem-solving and communication skills",
+      "Knowledge of customer service best practices"
+    ],
+    "responsibilities": [
+      "Lead and manage customer support team",
+      "Develop customer support processes and procedures",
+      "Monitor team performance and customer satisfaction",
+      "Provide training and coaching to team members",
+      "Escalate and resolve complex customer issues"
+    ],
+    "postedDate": "2023-12-06",
+    "isRemote": false
+  },
+  {
+    "id": "JOB041",
+    "title": "Account Manager",
+    "department": "Sales",
+    "location": "Mumbai, Maharashtra",
+    "type": "Full-time",
+    "experience": "3-5 years",
+    "salary": "₹8-12 LPA",
+    "skills": ["Account Management", "Relationship Building", "Sales", "CRM"],
+    "description": "Manage key client relationships and drive account growth. You'll work with enterprise clients to ensure satisfaction and expansion.",
+    "requirements": [
+      "3+ years of account management experience",
+      "Strong relationship building skills",
+      "Experience with B2B sales",
+      "Knowledge of CRM systems",
+      "Goal-oriented and results-driven"
+    ],
+    "responsibilities": [
+      "Manage key client accounts",
+      "Drive account growth and expansion",
+      "Maintain strong client relationships",
+      "Identify upselling and cross-selling opportunities",
+      "Collaborate with internal teams on delivery"
+    ],
+    "postedDate": "2023-12-05",
+    "isRemote": false
+  },
+  {
+    "id": "JOB042",
+    "title": "Performance Marketing Specialist",
+    "department": "Marketing",
+    "location": "Delhi, Delhi",
+    "type": "Full-time",
+    "experience": "2-4 years",
+    "salary": "₹6-10 LPA",
+    "skills": ["Performance Marketing", "Google Ads", "Facebook Ads", "Analytics"],
+    "description": "Drive customer acquisition through performance marketing campaigns. You'll optimize ad spend and improve conversion rates.",
+    "requirements": [
+      "2+ years of performance marketing experience",
+      "Experience with Google Ads and Facebook Ads",
+      "Strong analytical and optimization skills",
+      "Knowledge of conversion tracking",
+      "Understanding of marketing funnels"
+    ],
+    "responsibilities": [
+      "Manage performance marketing campaigns",
+      "Optimize ad spend and ROI",
+      "Analyze campaign performance data",
+      "Test and iterate on ad creatives",
+      "Report on marketing metrics and KPIs"
+    ],
+    "postedDate": "2023-12-04",
+    "isRemote": true
+  },
+  {
+    "id": "JOB043",
+    "title": "IT Support Specialist",
+    "department": "IT",
+    "location": "Chennai, Tamil Nadu",
+    "type": "Full-time",
+    "experience": "2-4 years",
+    "salary": "₹4-7 LPA",
+    "skills": ["IT Support", "Troubleshooting", "Hardware", "Software"],
+    "description": "Provide technical support to employees and maintain IT equipment. You'll handle hardware, software, and network support issues.",
+    "requirements": [
+      "2+ years of IT support experience",
+      "Knowledge of hardware and software troubleshooting",
+      "Experience with Windows and Mac systems",
+      "Strong problem-solving skills",
+      "Customer service orientation"
+    ],
+    "responsibilities": [
+      "Provide technical support to employees",
+      "Troubleshoot hardware and software issues",
+      "Maintain IT inventory and equipment",
+      "Set up new employee workstations",
+      "Document support procedures and solutions"
+    ],
+    "postedDate": "2023-12-03",
+    "isRemote": false
+  },
+  {
+    "id": "JOB044",
+    "title": "Risk Analyst",
+    "department": "Risk Management",
+    "location": "Pune, Maharashtra",
+    "type": "Full-time",
+    "experience": "3-5 years",
+    "salary": "₹8-12 LPA",
+    "skills": ["Risk Analysis", "Financial Modeling", "Compliance", "Analytics"],
+    "description": "Assess and manage various business risks. You'll develop risk models and implement risk mitigation strategies.",
+    "requirements": [
+      "3+ years of risk analysis experience",
+      "Strong analytical and modeling skills",
+      "Knowledge of risk management frameworks",
+      "Experience with financial analysis",
+      "Understanding of regulatory requirements"
+    ],
+    "responsibilities": [
+      "Assess business and operational risks",
+      "Develop risk models and metrics",
+      "Monitor risk exposure and trends",
+      "Implement risk mitigation strategies",
+      "Report on risk status to management"
+    ],
+    "postedDate": "2023-12-02",
+    "isRemote": false
+  },
+  {
+    "id": "JOB045",
+    "title": "UX Researcher",
+    "department": "Design",
+    "location": "Bangalore, Karnataka",
+    "type": "Full-time",
+    "experience": "2-4 years",
+    "salary": "₹7-11 LPA",
+    "skills": ["UX Research", "User Testing", "Research Methods", "Analytics"],
+    "description": "Conduct user research to inform product decisions. You'll design studies, gather insights, and present findings to product teams.",
+    "requirements": [
+      "2+ years of UX research experience",
+      "Experience with research methodologies",
+      "Knowledge of user testing and analytics",
+      "Strong analytical and presentation skills",
+      "Understanding of design thinking"
+    ],
+    "responsibilities": [
+      "Design and conduct user research studies",
+      "Analyze user behavior and feedback",
+      "Present research findings and recommendations",
+      "Collaborate with design and product teams",
+      "Maintain user research repository"
+    ],
+    "postedDate": "2023-12-01",
+    "isRemote": true
+  },
+  {
+    "id": "JOB046",
+    "title": "Sales Manager",
+    "department": "Sales",
+    "location": "Mumbai, Maharashtra",
+    "type": "Full-time",
+    "experience": "5-8 years",
+    "salary": "₹15-22 LPA",
+    "skills": ["Sales Management", "Team Leadership", "B2B Sales", "Strategy"],
+    "description": "Lead our sales team to achieve revenue targets. You'll develop sales strategies, manage team performance, and drive business growth.",
+    "requirements": [
+      "5+ years of sales management experience",
+      "Proven track record of meeting sales targets",
+      "Strong leadership and team management skills",
+      "Experience in B2B sales",
+      "Strategic thinking and planning abilities"
+    ],
+    "responsibilities": [
+      "Lead and manage sales team",
+      "Develop sales strategies and processes",
+      "Monitor sales performance and metrics",
+      "Coach and develop sales representatives",
+      "Collaborate with marketing and product teams"
+    ],
+    "postedDate": "2023-11-30",
+    "isRemote": false
+  },
+  {
+    "id": "JOB047",
+    "title": "Brand Manager",
+    "department": "Marketing",
+    "location": "Delhi, Delhi",
+    "type": "Full-time",
+    "experience": "4-6 years",
+    "salary": "₹10-15 LPA",
+    "skills": ["Brand Management", "Marketing Strategy", "Campaign Management", "Analytics"],
+    "description": "Manage and grow our brand presence. You'll develop brand strategies, oversee campaigns, and ensure consistent brand messaging.",
+    "requirements": [
+      "4+ years of brand management experience",
+      "Strong understanding of brand strategy",
+      "Experience with campaign management",
+      "Creative and strategic thinking",
+      "Knowledge of digital marketing"
+    ],
+    "responsibilities": [
+      "Develop brand strategies and positioning",
+      "Manage brand campaigns and initiatives",
+      "Ensure brand consistency across channels",
+      "Monitor brand performance and sentiment",
+      "Collaborate with creative and marketing teams"
+    ],
+    "postedDate": "2023-11-29",
+    "isRemote": true
+  },
+  {
+    "id": "JOB048",
+    "title": "API Developer",
+    "department": "Engineering",
+    "location": "Hyderabad, Telangana",
+    "type": "Full-time",
+    "experience": "3-5 years",
+    "salary": "₹10-15 LPA",
+    "skills": ["API Development", "REST", "GraphQL", "Microservices"],
+    "description": "Design and develop APIs that power our platform. You'll work on REST and GraphQL APIs, ensuring scalability and performance.",
+    "requirements": [
+      "3+ years of API development experience",
+      "Experience with REST and GraphQL",
+      "Knowledge of API design best practices",
+      "Understanding of microservices architecture",
+      "Experience with API testing and documentation"
+    ],
+    "responsibilities": [
+      "Design and develop scalable APIs",
+      "Implement API security and authentication",
+      "Write API documentation and tests",
+      "Optimize API performance",
+      "Collaborate with frontend and mobile teams"
+    ],
+    "postedDate": "2023-11-28",
+    "isRemote": true
+  },
+  {
+    "id": "JOB049",
+    "title": "Talent Acquisition Specialist",
+    "department": "Human Resources",
+    "location": "Bangalore, Karnataka",
+    "type": "Full-time",
+    "experience": "3-5 years",
+    "salary": "₹7-11 LPA",
+    "skills": ["Talent Acquisition", "Recruiting", "Interviewing", "Sourcing"],
+    "description": "Lead our talent acquisition efforts to build amazing teams. You'll source, screen, and hire top talent across all departments.",
+    "requirements": [
+      "3+ years of talent acquisition experience",
+      "Experience with technical and non-technical hiring",
+      "Strong sourcing and networking skills",
+      "Knowledge of interviewing best practices",
+      "Experience with ATS and recruiting tools"
+    ],
+    "responsibilities": [
+      "Source and attract top talent",
+      "Screen candidates and conduct interviews",
+      "Manage the full recruitment cycle",
+      "Build talent pipelines for key roles",
+      "Collaborate with hiring managers"
+    ],
+    "postedDate": "2023-11-27",
+    "isRemote": false
+  },
+  {
+    "id": "JOB050",
+    "title": "Growth Product Manager",
+    "department": "Product",
+    "location": "Mumbai, Maharashtra",
+    "type": "Full-time",
+    "experience": "4-7 years",
+    "salary": "₹18-25 LPA",
+    "skills": ["Growth Product Management", "A/B Testing", "Analytics", "User Acquisition"],
+    "description": "Drive user growth through product experimentation and optimization. You'll focus on acquisition, activation, retention, and monetization.",
+    "requirements": [
+      "4+ years of product management experience",
+      "Experience with growth and experimentation",
+      "Strong analytical and data-driven mindset",
+      "Knowledge of A/B testing and optimization",
+      "Understanding of user acquisition funnels"
+    ],
+    "responsibilities": [
+      "Drive product-led growth initiatives",
+      "Design and run growth experiments",
+      "Analyze user behavior and conversion funnels",
+      "Optimize onboarding and retention flows",
+      "Collaborate with engineering and design teams"
+    ],
+    "postedDate": "2023-11-26",
+    "isRemote": true
+  }
+]

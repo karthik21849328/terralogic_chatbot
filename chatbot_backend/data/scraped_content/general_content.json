@@ -1,0 +1,140 @@
+{
+  "company_name": "Servecure",
+  "tagline": "Trusted Services",
+  "description": "Transform how people access home services",
+  "services_offered": [
+    "Electrician services",
+    "Plumber services",
+    "Painter services",
+    "Carpenter services",
+    "House Cleaning",
+    "AC Service"
+  ],
+  "how_it_works": [
+    "Search for your desired service",
+    "Choose from verified professionals",
+    "Book your preferred time slot",
+    "Get quality service at your doorstep"
+  ],
+  "key_features": [
+    "Verified professionals",
+    "Quality assurance",
+    "Flexible scheduling",
+    "Transparent pricing",
+    "24/7 customer support"
+  ],
+  "how_it_works_section": {
+    "title": "How It Works",
+    "subtitle": "Get your home services sorted in just 4 simple steps",
+    "steps": [
+      {
+        "step": 1,
+        "title": "Browse Services",
+        "description": "Explore our wide range of professional home services with transparent pricing.",
+        "icon": "Search"
+      },
+      {
+        "step": 2,
+        "title": "Book Appointment",
+        "description": "Fill out our simple booking form with your details and preferred schedule.",
+        "icon": "Calendar"
+      },
+      {
+        "step": 3,
+        "title": "Get Confirmation",
+        "description": "Receive instant confirmation and our team will contact you to finalize details.",
+        "icon": "Phone"
+      },
+      {
+        "step": 4,
+        "title": "Enjoy Service",
+        "description": "Professional service delivery at your doorstep with quality guarantee.",
+        "icon": "Star"
+      }
+    ]
+  },
+  "join_as_expert_section": {
+    "title": "Join as a Service Expert",
+    "subtitle": "Turn your skills into income. Join thousands of verified professionals earning with us.",
+    "benefits": [
+      "Upload KYC documents for verification",
+      "Get assigned service requests in your area",
+      "Maintain ratings to get more customers",
+      "Receive payments instantly after service"
+    ],
+    "process": [
+      "We'll verify your documents within 24 hours",
+      "Complete background verification process",
+      "Set up your service profile and pricing",
+      "Start receiving customer bookings"
+    ],
+    "stats": [
+      {
+        "label": "Average Monthly Earnings",
+        "value": "₹25,000+"
+      },
+      {
+        "label": "Service Requests",
+        "value": "500+ Daily"
+      },
+      {
+        "label": "Cities Available",
+        "value": "15+ Cities"
+      },
+      {
+        "label": "Expert Partners",
+        "value": "10,000+"
+      }
+    ]
+  },
+  "pricing_section": {
+    "title": "Transparent Pricing",
+    "subtitle": "No hidden charges, fair pricing for quality service",
+    "service_categories": [
+      {
+        "category": "Installation Services",
+        "starting_price": "₹299",
+        "icon": "Zap"
+      },
+      {
+        "category": "Repair Services",
+        "starting_price": "₹199",
+        "icon": "Wrench"
+      },
+      {
+        "category": "Maintenance Services",
+        "starting_price": "₹149",
+        "icon": "Settings"
+      }
+    ],
+    "features": [
+      "No hidden charges",
+      "Transparent pricing",
+      "Money-back guarantee",
+      "Free cancellation up to 2 hours before service"
+    ]
+  },
+  "testimonials_section": [
+    {
+      "name": "Priya Sharma",
+      "rating": 5,
+      "comment": "Amazing service! The electrician was professional and fixed my fan in 30 minutes. Very satisfied with the quality of work.",
+      "service": "Electrician",
+      "location": "Mumbai"
+    },
+    {
+      "name": "Raj Patel",
+      "rating": 5,
+      "comment": "Quick response and fair pricing. The plumber arrived on time and solved my pipe leakage issue efficiently.",
+      "service": "Plumber",
+      "location": "Delhi"
+    },
+    {
+      "name": "Anita Gupta",
+      "rating": 4,
+      "comment": "Great painting job! They completed my living room in just 2 days. The finish quality is excellent.",
+      "service": "Painter",
+      "location": "Bangalore"
+    }
+  ]
+}

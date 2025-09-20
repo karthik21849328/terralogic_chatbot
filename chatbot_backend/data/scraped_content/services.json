@@ -1,0 +1,80 @@
+[
+  {
+    "title": "Electrician",
+    "icon": "Zap",
+    "subServices": [
+      "Fan Installation",
+      "Light Fixture",
+      "Wiring Repair",
+      "Switch Installation"
+    ],
+    "startingPrice": "₹299",
+    "image": "https://images.pexels.com/photos/257736/pexels-photo-257736.jpeg?auto=compress&cs=tinysrgb&w=400&h=250&dpr=2",
+    "description": "Professional electrical services for your home including installations, repairs, and maintenance"
+  },
+  {
+    "title": "Plumber",
+    "icon": "Wrench",
+    "subServices": [
+      "RO Repair",
+      "Pipe Leakage",
+      "Faucet Installation",
+      "Toilet Repair"
+    ],
+    "startingPrice": "₹399",
+    "image": "/download.jpeg",
+    "description": "Expert plumbing services for all your water and drainage needs"
+  },
+  {
+    "title": "Painter",
+    "icon": "Paintbrush",
+    "subServices": [
+      "Wall Painting",
+      "Ceiling Paint",
+      "Texture Paint",
+      "Wood Polish"
+    ],
+    "startingPrice": "₹499",
+    "image": "https://images.pexels.com/photos/1669799/pexels-photo-1669799.jpeg?auto=compress&cs=tinysrgb&w=400&h=250&dpr=2",
+    "description": "Professional painting services for interior and exterior spaces"
+  },
+  {
+    "title": "Carpenter",
+    "icon": "Hammer",
+    "subServices": [
+      "Furniture Repair",
+      "Door Installation",
+      "Cabinet Making",
+      "Shelving"
+    ],
+    "startingPrice": "₹349",
+    "image": "https://images.pexels.com/photos/5691659/pexels-photo-5691659.jpeg?auto=compress&cs=tinysrgb&w=400&h=250&dpr=2",
+    "description": "Skilled carpentry work for furniture and home installations"
+  },
+  {
+    "title": "House Cleaning",
+    "icon": "Sparkles",
+    "subServices": [
+      "Deep Cleaning",
+      "Regular Cleaning",
+      "Kitchen Cleaning",
+      "Bathroom Cleaning"
+    ],
+    "startingPrice": "₹199",
+    "image": "https://images.pexels.com/photos/4239146/pexels-photo-4239146.jpeg?auto=compress&cs=tinysrgb&w=400&h=250&dpr=2",
+    "description": "Comprehensive cleaning services for a spotless home"
+  },
+  {
+    "title": "AC Service",
+    "icon": "Home",
+    "subServices": [
+      "AC Installation",
+      "AC Repair",
+      "AC Cleaning",
+      "Gas Refill"
+    ],
+    "startingPrice": "₹449",
+    "image": "https://images.pexels.com/photos/8005394/pexels-photo-8005394.jpeg?auto=compress&cs=tinysrgb&w=400&h=250&dpr=2",
+    "description": "Complete air conditioning services including installation, repair and maintenance"
+  }
+]
